@@ -1,3 +1,3 @@
 ## COL106 Data Structures And Algorithms.
 
-This repository contains my code for the assignments of the course COL106 that I did at IIT Delhi
+This repository contains my assignment submissions for COL106 (Data Structures And Algorithms) course I did at IIT Delhi.
